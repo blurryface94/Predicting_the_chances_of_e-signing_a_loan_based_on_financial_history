@@ -28,6 +28,6 @@ Data is received from the marketplace. The data contains personal information li
  5. Random Forest (n=100, GSx2 + Gini)
  
  The following image shows various models' Accuracy,	Precision,	Recall and	F1 Score. 
- ![Uploading Screen Shot 2020-07-22 at 2.28.07 pm.png…]()
+<img width="1001" alt="Screen Shot 2020-07-22 at 2 28 07 pm" src="https://user-images.githubusercontent.com/39994111/88135511-90e76d00-cc2a-11ea-836b-87db30308a7e.png">
  
  Random Forest with n of 100, GSx2 and Gini is the best option by the model's various matrices
