@@ -1,6 +1,6 @@
 # Predicting the chances of e-signing a loan based on financial history
  
-The goal of the model to predict for "quality" applicants, who reach a key part of the loan application process. This case focuses on onboarding process. This model will help to find the leads procured from the market will complete the e-signing phase. This can be leverage to identify less quality applicants and expirement with giving them different onboarding screens.
+The goal of the model to predict for "quality" applicants, who reach a key part of the loan application process. This case focuses on onboarding process. This model will help to find the leads procured from the market will complete the e-signing phase. This can be leverage to identify less quality applicants and experiment with giving them different onboarding screens.
 
 ## Table of contents
 * [Technologies](#technologies)
